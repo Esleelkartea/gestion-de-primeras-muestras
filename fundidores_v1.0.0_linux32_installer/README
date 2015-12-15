@@ -1,0 +1,19 @@
+Attest - http://www.attest.es - sw-libre@attest.es
+
+"Gestión de primeras muestras" es una aplicación open source.
+
+El proyecto "Gestión de primeras muestras" esta lanzado bajo licencia GPL.
+
+Algunas partes de "Gestión de primeras muestras" incluyen librerias pertenecientes a otros proyectos 
+las cuales son usadas y re-lanzadas bajo su licencia original.
+
+Instalación: Consulte el manual de instalacion correspondiente en el directorio /documentacion/ "Manual Instalacion.pdf".
+Documentación Técnica: Consulte el manual técnico correspondiente en el directorio /documentacion/ "Manual tecnico.pdf".
+Documentación Usuario: Consulte el manual usuario  correspondiente en el directorio /documentacion/ "Manual usuario.pdf".
+
+"Gestión de primeras muestras" es un trabajo realizado en base al proyecto open source para gestion de 
+proyectos dotprojet 2.0: http://www.dotproject.net/ , http://sourceforge.net/projects/dotproject
+
+As of version 2.0, dotProject is released under GPL.
+Parts of dotProject include libraries from other projects which are used and re-released under their original licence.
+

@@ -1,0 +1,25 @@
+All files in this work, except the modules/ticketsmith directory, are now
+covered by the following copyright notice.  The ticketsmith module is
+under the Voxel Public License.  See modules/ticketsmith/LICENSE
+for details.  Please note that included libraries in the lib directory
+may have their own license.
+
+Copyright (c) 2006 Attest - http://www.attest.es - sw-libre@attest.es
+
+    This file is part of "Gestión de primeras muestras" .
+
+    "Gestión de primeras muestras"  is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; either version 2 of the License, or
+    (at your option) any later version.
+
+    "Gestión de primeras muestras"  is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with "Gestión de primeras muestras" ; if not, write to the Free Software
+    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
+The full text of the GPL is in the COPYING file.
